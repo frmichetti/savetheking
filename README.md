@@ -1,6 +1,9 @@
 # savetheking
 ## Salve o Corinthians
 
+[logo]: https://github.com/frmichetti/savetheking/blob/master/corinthianslogo.png/corinthianslogo.png "Logo"
+![logo](https://github.com/frmichetti/savetheking/blob/master/corinthianslogo.png "Logo")
+
 O campeão dos campeões
 Eternamente dentro dos nossos corações
 Salve o Corinthians de tradições e glórias mil
@@ -25,8 +28,7 @@ Tu és orgulho
 Dos desportistas do Brasil
 
 
-
-
-[screen 1]: ./Screenshot_1530043970.png "Screen Shot 1"
-[screen 2]: ./Screenshot_1530043973.png "Screen Shot 2"
-[screen 2]: ./Screenshot_1530043978.png "Screen Shot 3"
+### Screen Shots
+[screen 1]: https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043970.png "Screen Shot 1"
+[screen 2]: https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043973.png "Screen Shot 2"
+[screen 2]: https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043978.png "Screen Shot 3"
