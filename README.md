@@ -1,7 +1,6 @@
 # savetheking
 ## Salve o Corinthians
 
-[logo]: https://github.com/frmichetti/savetheking/blob/master/corinthianslogo.png/corinthianslogo.png "Logo"
 ![logo](https://github.com/frmichetti/savetheking/blob/master/corinthianslogo.png "Logo")
 
 O campeão dos campeões
@@ -29,6 +28,6 @@ Dos desportistas do Brasil
 
 
 ### Screen Shots
-[screen 1]: https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043970.png "Screen Shot 1"
-[screen 2]: https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043973.png "Screen Shot 2"
-[screen 2]: https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043978.png "Screen Shot 3"
+![screen1](https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043970.png "Screen Shot 1")
+![screen1](https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043973.png "Screen Shot 1")
+![screen1](https://github.com/frmichetti/savetheking/blob/master//Screenshot_1530043978.png "Screen Shot 1")
